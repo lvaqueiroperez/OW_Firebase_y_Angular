@@ -14,7 +14,9 @@ export const environment = {
     messagingSenderId: '390017001907',
     appId: '1:390017001907:web:3fa3b379d833c844f083c6',
     measurementId: 'G-DMD1XP2TKP'
-  }
+  },
+  // AÑADIMOS
+  title: 'Angular Firebase Project !!'
 };
 
 /*

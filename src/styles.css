@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+.loginDiv {
+  text-align: center;
+  width: 50%;
+  padding: 10px;
+  /*
+  TRUCO CON 2 VARIABLES PARA QUE EL COMPONENTE FLOTE EN MEDIO DE SU CONTENEDOR, PARA AHORRAR TRABAJO
+   */
+  float: none;
+  margin: auto;
+
+
+}
